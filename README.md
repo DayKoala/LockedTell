@@ -1,2 +1,3 @@
 # LockedTell
-Lock your tell with another player
+
+* You can lock your tell with a player typeing /locktell (player)
